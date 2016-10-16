@@ -38,7 +38,7 @@ func main() {
         }
 
 	// Parse configuration file
-	file, _ := os.Open("shutter.json")
+	file, _ := os.Open("shutterio.json")
 	decoder := json.NewDecoder(file)
 	configuration = Configuration{}
 	err := decoder.Decode(&configuration)

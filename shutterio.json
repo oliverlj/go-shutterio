@@ -1,0 +1,13 @@
+{
+	"shutters":[{
+		"up": 4,
+		"stop": 3,
+		"down": 2,
+		"delay": 1000
+	},{
+		"up": 7,
+		"stop": 6,
+		"down": 5,
+		"delay": 1000
+	}]
+}
